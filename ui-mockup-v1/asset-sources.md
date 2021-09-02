@@ -6,3 +6,11 @@
 | https://remixicon.com      | Apache License 2.0 (License and copyright notice, state changes) |
 | https://thenounproject.com | CC BY (Attribution)                                          |
 
+
+
+# Image Sources
+
+| Site                           | License and description  |
+| ------------------------------ | ------------------------ |
+| https://www.pexels.com/license | Attribution not required |
+
