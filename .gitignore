@@ -1,1 +1,5 @@
 **/export/**/*
+**/exports/**/*
+
+**/*.png
+!static/*.png
